@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Food Menu</string>
+    <string name="food_menu">Food Menu</string>
+    <string name="main_courses">Main Courses</string>
+    <string name="starters">Starters</string>
+    <string name="desserts">Deserts</string>
+</resources>
