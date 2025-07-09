@@ -1,4 +1,4 @@
-package com.maselart.foodmeniu;
+package com.maselart.foodmenu;
 
 public class Dish {
     String title;

@@ -1,4 +1,4 @@
-package com.maselart.foodmeniu;
+package com.maselart.foodmenu;
 
 import android.content.Intent;
 import android.os.Bundle;

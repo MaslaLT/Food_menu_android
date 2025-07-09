@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace = "com.maselart.foodmeniu"
+    namespace = "com.maselart.foodmenu"
     compileSdk = 35
 
     defaultConfig {
